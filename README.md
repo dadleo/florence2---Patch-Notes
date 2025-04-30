@@ -17,3 +17,5 @@ Let installation or reset fail or stop it.
   move it to the .../pinokio/api/florence2.git/app/env/lib/python3.10/site-packages/gradio/ folder. 
 
 All patched, restart.
+
+# The WebUI takes time to show up. Take it easy. 
