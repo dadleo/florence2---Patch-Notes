@@ -32,7 +32,7 @@ Restart
 
 ## Batch Caption  
 * Download florence2**_**batch_caption.py and place it anywhere in your computer   
-* Ensure your Florence2 (the Pinokio app) is up and run (the WebUI show up)  
+* Ensure your Florence2 (the Pinokio app) is up and run (the WebUI shows up)  
 * Open your terminal  and place it anywhere in your computer (ie. .../Downloads)   
 * Ensure your Florence2 (the Pinokio app) is up and run (the WebUI show up)  
 * Open your terminal (for rest of steps from a to f)  
@@ -54,7 +54,7 @@ Restart
 * f. Wait for its completion  
 * Two types of files generated in the folder provided by step e:  
 	1: a summary .csv file    
-	2: indiviual .txt file(s) containing caption associated with indiviual image  
+	2: indiviual .txt file(s) containing caption associated with each indiviual image  
     
  **Now it is ready for your Lora training.**
     
