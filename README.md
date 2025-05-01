@@ -22,7 +22,7 @@ All patched, restart.
 
 
 
-## For mps compatibility   
+## MPS compatibility   
 Replace your local app.py   
 with the one (app_mps_optimized.py) nested in app folder, and  
 Rename it as app.py  
