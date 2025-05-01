@@ -31,7 +31,8 @@ Restart
 
 
 ## Batch Caption  
-* Download florence2**_**batch_caption.py and place it anywhere in your computer   
+ **(Sample terminal log is provided for your reference)**  
+* Download florence2_batch_caption.py and place it anywhere in your computer   
 * Ensure your Florence2 (the Pinokio app) is up and run (the WebUI shows up)  
 * Open your terminal  and place it anywhere in your computer (ie. .../Downloads)   
 * Ensure your Florence2 (the Pinokio app) is up and run (the WebUI show up)  
@@ -40,7 +41,7 @@ Restart
   	```
   	source .../pinokio/api/florence2.git/app/env/bin/activate 
   	```  
-* b. Locate the folder where your florence2**_**batch_caption.py is placed  
+* b. Locate the folder where your florence2_batch_caption.py is placed  
   ie. cd ~/Downloads  
 * c. Run the script  
   ```
