@@ -1,4 +1,4 @@
-# Patch notes only
+# Patch notes only if using original app.py
 
 Your may need this if your installtion or reset or WebUI fails.
 
@@ -19,3 +19,12 @@ Let installation or reset fail or stop it.
 All patched, restart.
 
 # The WebUI takes time to show up. Take it easy. 
+
+
+
+# For mps compatibility,   
+Replace your local app.py   
+with the one (app_mps_optimized.py) nested in app folder, and  
+Rename it as app.py  
+
+Restart  
